@@ -3,8 +3,11 @@
 = Introduction =
 
 TODO:
-incorporate makefile for mCall into the main makefile.
-complete the mGlob module.
+1. incorporate makefile for mCall into the main makefile. //use configure to softcode boost location?
+
+2. manual/wiki for mcall, mcomp modules
+
+3. complete the mGlob module.
 
 = Details =
 
